@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nfpranta&theme=algolia&show_icons=true" alt="Nafis Fuad Pranta's GitHub Stats">
+    <br />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnfpranta&label=VISITORS&labelColor=%23dce775&countColor=%232ccce4&style=flat&labelStyle=upper" alt="visitors">
+</div>
 <!--
 **nfpranta/nfpranta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
