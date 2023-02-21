@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/nafis-fuad-pranta-462484146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajarshee-roy-01628a228" height="30" width="40" /></a>
 </p>
 
+## 🛠️ Skills
 
 ### Languages
 
@@ -36,6 +37,8 @@
 
 ![mysql](https://img.shields.io/badge/-My%20SQL-lightblue?style=for-the-badge&logo=mysql)
 ![mongodb](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+
 
 
 <div align="center">
