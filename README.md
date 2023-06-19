@@ -39,14 +39,6 @@
 ![mongodb](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
 
-
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nfpranta&theme=algolia&show_icons=true" alt="Nafis Fuad Pranta's GitHub Stats">
-    <br />
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnfpranta&label=VISITORS&labelColor=%23dce775&countColor=%232ccce4&style=flat&labelStyle=upper" alt="visitors">
-</div>
-
 ## 🔗 Links
 
 [![codeforces](https://img.shields.io/badge/Codeforces-red?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/NFPRANTA)
