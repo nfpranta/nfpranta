@@ -1,7 +1,7 @@
 # Hi there! I'm Nafis Fuad Pranta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 - 🎓 I'm currently studying Computer Science and Engineering at Chittagong University of Engineering and Technology.
-- 🌱 I’m currently learning Machine Learning and do competitive programming oftenly.
+- 🌱 I’m currently learning about backend engineering. Interested about .NET and Springboot.
 - 💬 Ask me about Anything!
 - 📫 How to reach me: u1804053@student.cuet.ac.bd
 
